@@ -4,11 +4,11 @@ An easy to use note taker for jotting down anything you need to remember.
 
 ## Getting Started
 
-1. Clone this repository to your computer
-2. Bring up the cloned folder in your terminal and run "npm i" to install the required dependencies
+1. Clone this repository to your computer.
+2. Bring up the cloned folder in your terminal and run "npm i" to install the required dependencies.
 3. Run the server.js file in node to launch your server.
 4. In your browser's address bar, type in "localhost:3000" (if you changed the port number in server.js, change "3000" in the address bar to whatever you changed it to).
-5. Click "Get Started"
+5. Click "Get Started".
 6. From here, you can create, access, and delete your saved notes.
 
 ### Screenshot
