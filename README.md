@@ -1,5 +1,7 @@
 # Note Taker
 
+https://blooming-mountain-56352.herokuapp.com/
+
 An easy to use note taker for jotting down anything you need to remember.
 
 ## Getting Started
@@ -28,5 +30,5 @@ This is how the note taker looks with two notes entered and the second note curr
 
 ## Acknowledgments
 
-* Big ups to my mentor, Calvin Carter for help throughout the production of this and many of my other projects.
+* Big ups to my mentor, Calvin Carter, for help throughout the production of this and many of my other projects.
 * Tons of help for this was found at w3schools (https://www.w3schools.com/), mozilla (https://developer.mozilla.org/), and various googleables
